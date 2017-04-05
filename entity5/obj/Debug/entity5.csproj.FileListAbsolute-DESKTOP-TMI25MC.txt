@@ -1,0 +1,16 @@
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\entity5.exe.config
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\entity5.exe
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\entity5.pdb
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\EntityFramework.dll
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\EntityFramework.xml
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\obj\Debug\entity5.csprojResolveAssemblyReference.cache
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\obj\Debug\entity5.exe
+C:\Users\Marcin Gajda\documents\visual studio 2015\Projects\entity5\entity5\obj\Debug\entity5.pdb
+D:\OneDrive\Project\entity5\entity5\bin\Debug\entity5.exe.config
+D:\OneDrive\Project\entity5\entity5\obj\Debug\entity5.exe
+D:\OneDrive\Project\entity5\entity5\obj\Debug\entity5.pdb
+C:\Users\Marcin Gajda\OneDrive\Project\entity5\entity5\bin\Debug\entity5.exe.config
+C:\Users\Marcin Gajda\OneDrive\Project\entity5\entity5\obj\Debug\entity5.exe
+C:\Users\Marcin Gajda\OneDrive\Project\entity5\entity5\obj\Debug\entity5.pdb
